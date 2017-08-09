@@ -1,0 +1,1362 @@
+# Copyright (C) 2017 Easy Meta Builder
+# This file is distributed under the same license as the Easy Meta Builder package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Meta Builder 1.0.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/easy-meta-"
+"builder\n"
+"POT-Creation-Date: 2017-01-12 18:02:43+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: classes/class-advanced-field-types.php:83
+msgid "Color Picker"
+msgstr ""
+
+#: classes/class-advanced-field-types.php:84
+msgid "Time Picker"
+msgstr ""
+
+#: classes/class-advanced-field-types.php:85
+msgid "Date Picker"
+msgstr ""
+
+#: classes/class-advanced-field-types.php:86
+msgid "Radio Inline"
+msgstr ""
+
+#: classes/class-advanced-field-types.php:87
+msgid "Taxonomy Select"
+msgstr ""
+
+#: classes/class-advanced-field-types.php:88
+msgid "Taxonomy Radio"
+msgstr ""
+
+#: classes/class-advanced-field-types.php:89
+msgid "Taxonomy Radio Inline"
+msgstr ""
+
+#: classes/class-advanced-field-types.php:90
+msgid "Taxonomy Muilticheck"
+msgstr ""
+
+#: classes/class-advanced-field-types.php:91
+msgid "Muilticheck"
+msgstr ""
+
+#: classes/class-advanced-field-types.php:92
+msgid "File list"
+msgstr ""
+
+#: classes/class-advanced-field-types.php:93
+msgid "Dashicon Radio"
+msgstr ""
+
+#: classes/class-advanced-field-types.php:94
+msgid "oEmbed"
+msgstr ""
+
+#: classes/class-advanced-field-types.php:95
+msgid "Date Picker (UNIX timestamp)"
+msgstr ""
+
+#: classes/class-advanced-field-types.php:96
+msgid "Text Date/Time Picker Combo (UNIX timestamp)"
+msgstr ""
+
+#: classes/class-advanced-field-types.php:97
+msgid "Text Date/Time Picker/Time zone"
+msgstr ""
+
+#: classes/class-advanced-field-types.php:98
+msgid "Time Zone Dropdown"
+msgstr ""
+
+#: classes/class-advanced-field-types.php:124
+msgid "Default Color"
+msgstr ""
+
+#: classes/class-advanced-field-types.php:126
+msgid "Sets the default color of the picker."
+msgstr ""
+
+#: classes/class-advanced-field-types.php:132
+msgid "Palette"
+msgstr ""
+
+#: classes/class-advanced-field-types.php:134
+msgid "Each comma seperated hex will be added as a palatte below the picker."
+msgstr ""
+
+#: classes/class-advanced-field-types.php:144 classes/class-field-types.php:85
+msgid "Radio Options"
+msgstr ""
+
+#: classes/class-advanced-field-types.php:146 classes/class-field-types.php:87
+msgid "Each comma seperated string will be added as an radio option."
+msgstr ""
+
+#: classes/class-advanced-field-types.php:153
+msgid "Multicheck Options"
+msgstr ""
+
+#: classes/class-advanced-field-types.php:155
+msgid "Each comma seperated string will be added as an multicheck option."
+msgstr ""
+
+#: classes/class-advanced-field-types.php:162
+#: classes/class-advanced-field-types.php:171
+#: classes/class-advanced-field-types.php:180 classes/class-field-types.php:76
+msgid "Taxonomy"
+msgstr ""
+
+#: classes/class-builder.php:85
+msgid "Options"
+msgstr ""
+
+#: classes/class-builder.php:95
+msgid "Choose a post type this metabox will be added to."
+msgstr ""
+
+#: classes/class-builder.php:110
+msgid "Fields"
+msgstr ""
+
+#: classes/class-builder.php:121
+msgid ""
+"Choose fields to add to this metabox. Some field types may have additional "
+"options that are shown after selecting a field type."
+msgstr ""
+
+#: classes/class-builder.php:123
+msgid "Field {#}"
+msgstr ""
+
+#: classes/class-builder.php:124
+msgid "Add Another Field"
+msgstr ""
+
+#: classes/class-builder.php:125
+msgid "Remove Field"
+msgstr ""
+
+#: classes/class-builder.php:133
+msgid ""
+"ID is required for field to be included in metabox. No Spaces use underscore."
+msgstr ""
+
+#: classes/class-builder.php:156
+msgid "Make this field required."
+msgstr ""
+
+#: classes/class-builder.php:162
+msgid "Choose a field type."
+msgstr ""
+
+#: classes/class-builder.php:283
+msgid "user profile"
+msgstr ""
+
+#: classes/class-builder.php:297
+msgid "Title"
+msgstr ""
+
+#: classes/class-builder.php:298
+msgid "Text Input"
+msgstr ""
+
+#: classes/class-builder.php:299
+msgid "Text Input Small"
+msgstr ""
+
+#: classes/class-builder.php:300
+msgid "Text Input Medium"
+msgstr ""
+
+#: classes/class-builder.php:301
+msgid "Text Input Email"
+msgstr ""
+
+#: classes/class-builder.php:302
+msgid "Text Input Url"
+msgstr ""
+
+#: classes/class-builder.php:303
+msgid "Text Input Money"
+msgstr ""
+
+#: classes/class-builder.php:304
+msgid "Textarea"
+msgstr ""
+
+#: classes/class-builder.php:305
+msgid "Textarea Small"
+msgstr ""
+
+#: classes/class-builder.php:306
+msgid "Textarea Code"
+msgstr ""
+
+#: classes/class-builder.php:307
+msgid "Radio"
+msgstr ""
+
+#: classes/class-builder.php:308
+msgid "Select"
+msgstr ""
+
+#: classes/class-builder.php:309
+msgid "Checkbox"
+msgstr ""
+
+#: classes/class-builder.php:310
+msgid "File Upload"
+msgstr ""
+
+#: classes/class-builder.php:311
+msgid "WYSIWYG Editor"
+msgstr ""
+
+#: classes/class-field-types.php:94
+msgid "Select Options"
+msgstr ""
+
+#: classes/class-field-types.php:96
+msgid "Each comma seperated string will be added as an select option."
+msgstr ""
+
+#: classes/class-meta-cpt.php:79
+msgctxt "Post Type General Name"
+msgid "Meta Boxes"
+msgstr ""
+
+#: classes/class-meta-cpt.php:80
+msgctxt "Post Type Singular Name"
+msgid "Meta Box"
+msgstr ""
+
+#: classes/class-meta-cpt.php:81 classes/class-meta-cpt.php:82
+msgid "Meta"
+msgstr ""
+
+#: classes/class-meta-cpt.php:83
+msgid "Meta Archives"
+msgstr ""
+
+#: classes/class-meta-cpt.php:84
+msgid "Parent Meta:"
+msgstr ""
+
+#: classes/class-meta-cpt.php:85
+msgid "All Meta Boxes"
+msgstr ""
+
+#: classes/class-meta-cpt.php:86
+msgid "Add New Meta Box"
+msgstr ""
+
+#: classes/class-meta-cpt.php:87
+msgid "Add New"
+msgstr ""
+
+#: classes/class-meta-cpt.php:88
+msgid "New Meta Box"
+msgstr ""
+
+#: classes/class-meta-cpt.php:89
+msgid "Edit Meta Box"
+msgstr ""
+
+#: classes/class-meta-cpt.php:90
+msgid "Update Meta Box"
+msgstr ""
+
+#: classes/class-meta-cpt.php:91
+msgid "View Meta Box"
+msgstr ""
+
+#: classes/class-meta-cpt.php:92
+msgid "Search Meta"
+msgstr ""
+
+#: classes/class-meta-cpt.php:93
+msgid "Not found"
+msgstr ""
+
+#: classes/class-meta-cpt.php:94
+msgid "Not found in Trash"
+msgstr ""
+
+#: classes/class-meta-cpt.php:95
+msgid "Featured Image"
+msgstr ""
+
+#: classes/class-meta-cpt.php:96
+msgid "Set featured image"
+msgstr ""
+
+#: classes/class-meta-cpt.php:97
+msgid "Remove featured image"
+msgstr ""
+
+#: classes/class-meta-cpt.php:98
+msgid "Use as featured image"
+msgstr ""
+
+#: classes/class-meta-cpt.php:99
+msgid "Insert into Meta"
+msgstr ""
+
+#: classes/class-meta-cpt.php:100
+msgid "Uploaded to this Meta"
+msgstr ""
+
+#: classes/class-meta-cpt.php:101
+msgid "Meta list"
+msgstr ""
+
+#: classes/class-meta-cpt.php:102
+msgid "Meta list navigation"
+msgstr ""
+
+#: classes/class-meta-cpt.php:103
+msgid "Filter meta list"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (Easy Meta Builder 1.0.2)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#. #-#-#-#-#  plugin.pot (Easy Meta Builder 1.0.2)  #-#-#-#-#
+#. Author of the plugin/theme
+#: classes/class-meta-cpt.php:106
+msgid "Easy Meta Builder"
+msgstr ""
+
+#: classes/class-meta-cpt.php:107
+msgid "Meta for post types."
+msgstr ""
+
+#: loader.php:319
+msgid "Check out %1 from @EasyMetaBuilder %2"
+msgstr ""
+
+#: loader.php:321 loader.php:322 loader.php:323
+msgid "Spread the word!"
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2.php:129
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2.php:418
+msgid "Click to toggle"
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2_Ajax.php:71
+msgid "Please Try Again"
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2_Ajax.php:173
+msgid "Remove Embed"
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2_Ajax.php:177
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2_Field.php:1186
+msgid "Add Group"
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2_Field.php:1187
+msgid "Remove Group"
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2_Field.php:1209
+#: vendor/CMB2/includes/CMB2_Field.php:1213
+msgid "None"
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2_Field.php:1269
+msgid "Sorry, this field does not have a cmb_id specified."
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2_Field_Display.php:408
+#: vendor/CMB2/includes/CMB2_JS.php:139
+#: vendor/CMB2/includes/types/CMB2_Type_File_Base.php:75
+msgid "File:"
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2_JS.php:86 vendor/CMB2/includes/CMB2_JS.php:119
+msgid "Clear"
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2_JS.php:87
+msgid "Default"
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2_JS.php:88
+msgid "Select Color"
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2_JS.php:89
+msgid "Current Color"
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2_JS.php:109
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2_JS.php:110
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2_JS.php:111
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2_JS.php:112
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2_JS.php:113
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2_JS.php:114
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2_JS.php:115
+msgid "Next"
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2_JS.php:116
+msgid "Prev"
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2_JS.php:117
+msgid "Today"
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2_JS.php:118 vendor/CMB2/includes/CMB2_JS.php:128
+msgid "Done"
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2_JS.php:122
+msgid "Choose Time"
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2_JS.php:123
+msgid "Time"
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2_JS.php:124
+msgid "Hour"
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2_JS.php:125
+msgid "Minute"
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2_JS.php:126
+msgid "Second"
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2_JS.php:127
+msgid "Now"
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2_JS.php:129
+msgctxt ""
+"Valid formatting string, as per http://trentrichardson.com/examples/"
+"timepicker/"
+msgid "hh:mm TT"
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2_JS.php:135
+msgid "Use this file"
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2_JS.php:136
+msgid "Use these files"
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2_JS.php:137
+#: vendor/CMB2/includes/types/CMB2_Type_File_Base.php:61
+msgid "Remove Image"
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2_JS.php:138
+#: vendor/CMB2/includes/CMB2_Types.php:257
+#: vendor/CMB2/includes/types/CMB2_Type_File_Base.php:80
+msgid "Remove"
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2_JS.php:140
+#: vendor/CMB2/includes/types/CMB2_Type_File_Base.php:78
+#: vendor/custom-fields/dashicon-radio-field.php:266
+msgid "Download"
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2_JS.php:141
+msgid "Select / Deselect All"
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2_Types.php:194
+msgid "Add Row"
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2_hookup.php:143
+msgid ""
+"Term Metadata is a WordPress > 4.4 feature. Please upgrade your WordPress "
+"install."
+msgstr ""
+
+#: vendor/CMB2/includes/CMB2_hookup.php:147
+msgid "Term metaboxes configuration requires a 'taxonomies' parameter"
+msgstr ""
+
+#: vendor/CMB2/includes/helper-functions.php:93
+msgid "No oEmbed Results Found for %s. View more info at %s."
+msgstr ""
+
+#: vendor/CMB2/includes/helper-functions.php:279
+msgid "Save"
+msgstr ""
+
+#: vendor/CMB2/includes/types/CMB2_Type_File.php:36
+msgid "Add or Upload File"
+msgstr ""
+
+#: vendor/CMB2/includes/types/CMB2_Type_File_List.php:36
+msgid "Add or Upload Files"
+msgstr ""
+
+#: vendor/CMB2/includes/types/CMB2_Type_Taxonomy_Multicheck.php:27
+#: vendor/CMB2/includes/types/CMB2_Type_Taxonomy_Radio.php:25
+msgid "No terms"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:73
+msgid "Menu"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:74
+msgid "Dashboard"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:75
+msgid "Admin Site"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:76
+msgid "Admin Media"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:77
+msgid "Admin Page"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:78
+msgid "Admin Comments"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:79
+msgid "Admin Appearance"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:80
+#: vendor/custom-fields/dashicon-radio-field.php:90
+msgid "Admin Plugins"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:81
+msgid "Admin Users"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:82
+msgid "Admin Tools"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:83
+msgid "Admin Settings"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:84
+msgid "Admin Network"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:85
+msgid "Admin Generic"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:86
+msgid "Admin Home"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:87
+msgid "Admin Collapse"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:88
+msgid "Admin Links"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:89
+msgid "Admin Post"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:91
+msgid "Image Post Format"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:92
+msgid "Gallery Post Format"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:93
+msgid "Audio Post Format"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:94
+msgid "Video Post Format"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:95
+msgid "Link Post Format"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:96
+msgid "Chat Post Format"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:97
+msgid "Status Post Format"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:98
+msgid "Aside Post Format"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:99
+msgid "Quote Post Format"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:100
+msgid "Welcome Write Blog"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:101
+msgid "Welcome Edit Page"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:102
+msgid "Welcome Add Page"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:103
+msgid "Welcome View Site"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:104
+msgid "Welcome Widget Menus"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:105
+msgid "Welcome Comments"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:106
+msgid "Welcome Learn More"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:107
+msgid "Image Crop"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:108
+msgid "Image Rotate Left"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:109
+msgid "Image Rotate Right"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:110
+msgid "Image Flip Vertical"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:111
+msgid "Image Flip Horizontal"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:112
+msgid "Undo"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:113
+msgid "Redo"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:114
+msgid "Editor Bold"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:115
+msgid "Editor Italic"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:116
+msgid "Editor UL"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:117
+msgid "Editor OL"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:118
+msgid "Editor Quote"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:119
+msgid "Editor Align Left"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:120
+msgid "Editor Align Center"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:121
+msgid "Editor Align Right"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:122
+msgid "Editor Insert More"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:123
+msgid "Editor Spell Check"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:124
+msgid "Editor Distraction Free"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:125
+msgid "Editor Expand"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:126
+msgid "Editor Contract"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:127
+msgid "Editor Kitchen Sink"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:128
+msgid "Editor Underline"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:129
+msgid "Editor Justify"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:130
+msgid "Editor Text Colour"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:131
+msgid "Editor Paste Word"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:132
+msgid "Editor Paste Text"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:133
+msgid "Editor Remove Formatting"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:134
+msgid "Editor Video"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:135
+msgid "Editor Custom Character"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:136
+msgid "Editor Outdent"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:137
+msgid "Editor Indent"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:138
+msgid "Editor Help"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:139
+msgid "Editor Strikethrough"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:140
+msgid "Editor Unlink"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:141
+msgid "Editor RTL"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:142
+msgid "Editor Break"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:143
+msgid "Editor Code"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:144
+msgid "Editor Paragraph"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:145
+msgid "Align Left"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:146
+msgid "Align Right"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:147
+msgid "Align Center"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:148
+msgid "Align None"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:149
+msgid "Lock"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:150
+msgid "Calendar"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:151
+msgid "Visibility"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:152
+msgid "Post Status"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:153
+msgid "Edit"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:154
+msgid "Post Trash"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:155
+msgid "Trash"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:156
+msgid "External"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:157
+msgid "Arrow Up"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:158
+msgid "Arrow Down"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:159
+msgid "Arrow Left"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:160
+msgid "Arrow Right"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:161
+msgid "Arrow Up (alt)"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:162
+msgid "Arrow Down (alt)"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:163
+msgid "Arrow Left (alt)"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:164
+msgid "Arrow Right (alt)"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:165
+msgid "Arrow Up (alt 2)"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:166
+msgid "Arrow Down (alt 2)"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:167
+msgid "Arrow Left (alt 2)"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:168
+msgid "Arrow Right (alt 2)"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:169
+msgid "Arrow Left-Right"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:170
+msgid "Sort"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:171
+msgid "Randomise"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:172
+msgid "List View"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:173
+msgid "Excerpt View"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:174
+msgid "Hammer"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:175
+msgid "Art"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:176
+msgid "Migrate"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:177
+msgid "Performance"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:178
+msgid "Universal Access"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:179
+msgid "Universal Access (alt)"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:180
+msgid "Tickets"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:181
+msgid "Name Tag"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:182
+msgid "Clipboard"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:183
+msgid "Heart"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:184
+msgid "Megaphone"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:185
+msgid "Schedule"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:186
+msgid "WordPress"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:187
+msgid "WordPress (alt)"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:188
+msgid "Press This"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:189
+msgid "Update"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:190
+msgid "Screen Options"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:191
+msgid "Info"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:192
+msgid "Cart"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:193
+msgid "Feedback"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:194
+msgid "Cloud"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:195
+msgid "Translation"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:196
+msgid "Tag"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:197
+msgid "Category"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:198
+msgid "Archive"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:199
+msgid "Tag Cloud"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:200
+msgid "Text"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:201
+msgid "Media Archive"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:202
+msgid "Media Audio"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:203
+msgid "Media Code)"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:204
+msgid "Media Default"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:205
+msgid "Media Document"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:206
+msgid "Media Interactive"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:207
+msgid "Media Spreadsheet"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:208
+msgid "Media Text"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:209
+msgid "Media Video"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:210
+msgid "Audio Playlist"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:211
+msgid "Video Playlist"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:212
+msgid "Yes"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:213
+msgid "No"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:214
+msgid "No (alt)"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:215
+msgid "Plus"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:216
+msgid "Plus (alt)"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:217
+msgid "Minus"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:218
+msgid "Dismiss"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:219
+msgid "Marker"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:220
+msgid "Star Filled"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:221
+msgid "Star Half"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:222
+msgid "Star Empty"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:223
+msgid "Flag"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:224
+msgid "Share"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:225
+msgid "Share 1"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:226
+msgid "Share (alt)"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:227
+msgid "Share (alt 2)"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:228
+msgid "twitter"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:229
+msgid "RSS"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:230
+msgid "Email"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:231
+msgid "Email (alt)"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:232
+msgid "Facebook"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:233
+msgid "Facebook (alt)"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:234
+msgid "Networking"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:235
+msgid "Google+"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:236
+msgid "Location"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:237
+msgid "Location (alt)"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:238
+msgid "Camera"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:239
+msgid "Images"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:240
+msgid "Images Alt"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:241
+msgid "Video (alt)"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:242
+msgid "Video (alt 2)"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:243
+msgid "Video (alt 3)"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:244
+msgid "Vault"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:245
+msgid "Shield"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:246
+msgid "Shield (alt)"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:247
+msgid "SOS"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:248
+msgid "Search"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:249
+msgid "Slides"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:250
+msgid "Analytics"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:251
+msgid "Pie Chart"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:252
+msgid "Bar Chart"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:253
+msgid "Line Chart"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:254
+msgid "Area Chart"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:255
+msgid "Groups"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:256
+msgid "Businessman"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:257
+msgid "ID"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:258
+msgid "ID (alt)"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:259
+msgid "Products"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:260
+msgid "Awards"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:261
+msgid "Forms"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:262
+msgid "Testimonial"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:263
+msgid "Portfolio"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:264
+msgid "Book"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:265
+msgid "Book (alt)"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:267
+msgid "Upload"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:268
+msgid "Backup"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:269
+msgid "Clock"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:270
+msgid "Lightbulb"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:271
+msgid "Microphone"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:272
+msgid "Desktop"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:273
+msgid "Tablet"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:274
+msgid "Smartphone"
+msgstr ""
+
+#: vendor/custom-fields/dashicon-radio-field.php:275
+msgid "Smiley"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (Easy Meta Builder 1.0.2)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  plugin.pot (Easy Meta Builder 1.0.2)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://easymetabuilder.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "The fastest and easiest way to add meta fields to WordPress."
+msgstr ""
